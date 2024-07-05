@@ -13,4 +13,5 @@
 - Generative AI & Ethics Research with Professor David Evan Harris @ UC Berkeley Haas School of Business
 - Hybrid Spotify Songs Prediction Engine & UI (Back+Front-end)
 - Turbulence & Flight Delay Prediction
+- Tennis Matchups Analytics
 - Stealth startup in the making :)
