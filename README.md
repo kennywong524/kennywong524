@@ -10,7 +10,7 @@
 - Process optimization & Automation
 
 ## 💻 Currently working on...
-- Generative AI & Ethics Research with Professor David Evan Harris @ UC Berkeley Haas School of Business
+- Shared Rides Pricing & Matching @ UC Berkeley IEOR under Prof. Chiwei Yan
 - Hybrid Spotify Songs Prediction Engine & UI (Back+Front-end)
 - Turbulence & Flight Delay Prediction
 - Tennis Matchups Analytics
