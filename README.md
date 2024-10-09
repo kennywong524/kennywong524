@@ -1,9 +1,9 @@
 # Kenny Wongchamcharoen 👋
 
-👨🏻‍💻⚡ Sophomore at the University of California, Berkeley, majoring in Industrial Engineering & Operations Research (IEOR) with a minor in Data Science and Electrical Engineering & Computer Sciences (EECS)
+👨🏻‍💻⚡ Sophomore at the University of California, Berkeley, majoring in Industrial Engineering & Operations Research (IEOR) with a minor in Data Science
 
 **🥼 Interests:**
-- Applied AI & ML models
+- Applied AI & ML
 - Predictive analytics & Recommender systems
 - Revenue management
 - Financial engineering
