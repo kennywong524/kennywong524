@@ -4,7 +4,7 @@
 
 **🥼 Interests:**
 - Applied AI & ML
-- Predictive analytics & Recommender systems
+- Data analytics & Optimization
 - Revenue management
 - Financial engineering
 - Process optimization & Automation
