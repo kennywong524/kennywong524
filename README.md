@@ -4,14 +4,13 @@
 
 **🥼 Interests:**
 - Applied AI & ML
-- Data analytics & Optimization
+- Data Analytics & Optimization
 - Revenue management
 - Financial engineering
-- Process optimization & Automation
 
 ## 💻 Currently working on...
-- Shared Rides Pricing & Matching @ UC Berkeley IEOR under Prof. Chiwei Yan
+- Shared Rides Dynamic Pricing & Optimization @ UC Berkeley IEOR under Prof. Chiwei Yan
+- LLMs & Human Productivity in Open Source Contribution @ UC Berkeley Haas under Prof. Abhishek Nagaraj
 - Hybrid Spotify Songs Prediction Engine & UI (Back+Front-end)
 - Turbulence & Flight Delay Prediction
 - Tennis Matchups Analytics
-- Stealth startup in the making :)
