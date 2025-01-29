@@ -4,8 +4,9 @@
 
 **🥼 Interests:**
 - Applied AI & ML
-- Data Analytics & Optimization
+- Data-driven Optimization
 - Revenue management
+- Transportation System & Supply Chain Analytics
 - Financial engineering
 
 ## 💻 Currently working on...
