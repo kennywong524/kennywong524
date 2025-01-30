@@ -6,6 +6,7 @@
 - Applied AI & ML
 - Data-driven Optimization
 - Revenue management
+- Urban Analytics
 - Transportation System & Supply Chain Analytics
 - Financial engineering
 
