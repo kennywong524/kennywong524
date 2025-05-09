@@ -10,7 +10,7 @@
 - Transportation System & Supply Chain Analytics
 
 ## 💻 Currently working on...
-- (Incoming) LLMs & Sequential Data @ Columbia Business School, Division, Risk & Operations (DRO)
+- (Incoming) LLMs & Sequential Data @ Columbia Business School - Decision, Risk & Operations (DRO)
 - Shared Rides Dynamic Pricing & Optimization @ UC Berkeley IEOR under Prof. Chiwei Yan
 - LLMs & Innovations @ UC Berkeley Haas under Prof. Abhishek Nagaraj
 - Hybrid Spotify Songs Prediction Engine & UI (Back+Front-end)
