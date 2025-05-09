@@ -8,11 +8,11 @@
 - Revenue management
 - Urban Analytics
 - Transportation System & Supply Chain Analytics
-- Financial engineering
 
 ## 💻 Currently working on...
+- (Incoming) LLMs & Sequential Data @ Columbia Business School, Division, Risk & Operations (DRO)
 - Shared Rides Dynamic Pricing & Optimization @ UC Berkeley IEOR under Prof. Chiwei Yan
-- LLMs & Human Productivity in Open Source Contribution @ UC Berkeley Haas under Prof. Abhishek Nagaraj
+- LLMs & Innovations @ UC Berkeley Haas under Prof. Abhishek Nagaraj
 - Hybrid Spotify Songs Prediction Engine & UI (Back+Front-end)
 - Turbulence & Flight Delay Prediction
 - Tennis Matchups Analytics
