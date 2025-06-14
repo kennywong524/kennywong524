@@ -10,9 +10,6 @@
 - Transportation System & Supply Chain Analytics
 
 ## 💻 Currently working on...
-- LLMs & Sequential Data @ Columbia Business School (DRO) under Prof. Paul Glasserman
+- LLMs understandings of chronology @ Columbia Business School (DRO) under Prof. Paul Glasserman
 - Shared Rides Dynamic Pricing & Optimization @ UC Berkeley IEOR under Prof. Chiwei Yan
-- LLMs & Innovations @ UC Berkeley Haas under Prof. Abhishek Nagaraj
-- Hybrid Spotify Songs Prediction Engine & UI (Back+Front-end)
-- Turbulence & Flight Delay Prediction
-- Tennis Matchups Analytics
+- The effects of AI on innovations @ UC Berkeley Haas under Prof. Abhishek Nagaraj
