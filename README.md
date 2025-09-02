@@ -1,6 +1,6 @@
 # Kenny Wongchamcharoen 👋
 
-👨🏻‍💻⚡ Sophomore at the University of California, Berkeley, majoring in Industrial Engineering & Operations Research (IEOR) with a minor in Data Science, Mathematics
+👨🏻‍💻⚡ Junior at the University of California, Berkeley, majoring in Industrial Engineering & Operations Research (IEOR) with a minor in Data Science, Mathematics
 
 **🥼 Interests:**
 - Applied AI & ML
@@ -10,6 +10,6 @@
 - Transportation System & Supply Chain Analytics
 
 ## 💻 Currently working on...
-- LLMs understandings of chronology @ Columbia Business School (DRO) under Prof. Paul Glasserman
+- LLMs understandings of chronology with applications in Forecasting @ Columbia Business School (DRO) under Prof. Paul Glasserman
 - Shared Rides Dynamic Pricing & Optimization @ UC Berkeley IEOR under Prof. Chiwei Yan
 - The effects of AI on innovations @ UC Berkeley Haas under Prof. Abhishek Nagaraj
